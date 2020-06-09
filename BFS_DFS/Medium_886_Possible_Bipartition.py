@@ -82,7 +82,7 @@ class Solution:
         return True
 
 
-#method 1: BFS (use a queue loop to visit each vertex number and push its neighbor in to check)
+#method 2: BFS (use a queue loop to visit each vertex number and push its neighbor in to check)
 class Solution:
     def possibleBipartition(self, N: int, dislikes: List[List[int]]) -> bool:
         if not dislikes:
