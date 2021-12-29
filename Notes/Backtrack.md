@@ -1,4 +1,5 @@
-## BackTrack Notes from *[LeetCode](https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning)*
+## BackTrack 
+Notes from *[LeetCode](https://leetcode.com/problems/combination-sum/discuss/16502/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partitioning))* 
 
 A general approach to backtracking questions in Java (`Subsets, Permutations, Combination Sum, Palindrome Partitioning`)
 
